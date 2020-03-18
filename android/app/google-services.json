@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8791756259",
+    "firebase_url": "https://mes-apps-flutter.firebaseio.com",
+    "project_id": "mes-apps-flutter",
+    "storage_bucket": "mes-apps-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8791756259:android:66662968ea307a8e9264d6",
+        "android_client_info": {
+          "package_name": "com.marcelin.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8791756259-kop6se26c17h3njj5lmt5cm1v1nkmr27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTPZIqbrLGCfqV2_BNGOX0b-gMWBEd-Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8791756259-kop6se26c17h3njj5lmt5cm1v1nkmr27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
